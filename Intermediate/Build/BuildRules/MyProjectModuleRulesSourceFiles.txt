@@ -1,0 +1,3 @@
+/Users/danielshteremberg/Documents/Unreal Projects/MyProject/Source/MyProject/MyProject.Build.cs
+/Users/danielshteremberg/Documents/Unreal Projects/MyProject/Source/MyProject.Target.cs
+/Users/danielshteremberg/Documents/Unreal Projects/MyProject/Source/MyProjectEditor.Target.cs
